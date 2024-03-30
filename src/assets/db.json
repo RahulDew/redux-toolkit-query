@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": "1",
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+      "userId": 2,
+      "id": "11",
+      "title": "et ea vero quia laudantium autem",
+      "body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi"
+    },
+    {
+      "userId": 3,
+      "id": "21",
+      "title": "asperiores ea ipsam voluptatibus modi minima quia sint",
+      "body": "repellat aliquid praesentium dolorem quo\nsed totam minus non itaque\nnihil labore molestiae sunt dolor eveniet hic recusandae veniam\ntempora et tenetur expedita sunt"
+    },
+    {
+      "id": 116.17582296259954,
+      "title": "My new post",
+      "body": "Random     };    };    };    };    };    };    };    };    };    };    };    };    };    };    };    };    };    };",
+      "userId": 281.3168256178027
+    },
+    {
+      "id": 754.9073095607592,
+      "title": "bhai bhai ",
+      "body": "khtm life",
+      "userId": 433.6760008236118
+    },
+    {
+      "id": 419.5112856894516,
+      "title": "new Info",
+      "body": "are you gatting there ?",
+      "userId": 567.8224503397953
+    },
+    {
+      "id": 297.1215136896142,
+      "title": "adding new",
+      "body": "hua ?",
+      "userId": 787.2947474242977
+    },
+    {
+      "id": 629.8238856059082,
+      "title": "hey hey",
+      "body": "bhai sb sahi kaam kr rha h na ?",
+      "userId": 843.2641629538142
+    },
+    {
+      "id": 880.7466897186708,
+      "title": "New POST 123",
+      "body": "Ye le bhai ",
+      "userId": 854.7772509129605
+    }
+  ]
+}
